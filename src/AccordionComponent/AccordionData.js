@@ -2,11 +2,11 @@
 const data = [
   {
     question: 'What are accordion components?',
-    answer: 'Accordion components are user interface elements used for oragnizing and presenting content in a collapsible manner. They typically consist of a header, content, and a expand/collapse action.',
+    answer: 'Accordion components are user interface elements used for organizing and presenting content in a collapsible manner. They typically consist of a header, content, and a expand/collapse action.',
   },
   {
     question: 'What are they used for?',
-    answer: 'They are commonly employed in various contexts, including FAQs, product descriptions, navigation menus, settings panels, and data tables, to save screen space and provide a structured and user-friendly intergace for presenting information or options.',
+    answer: 'They are commonly employed in various contexts, including FAQs, product descriptions, navigation menus, settings panels, and data tables, to save screen space and provide a structured and user-friendly interface for presenting information or options.',
   },
   {
     question: 'Accordion as a musical instrument',
